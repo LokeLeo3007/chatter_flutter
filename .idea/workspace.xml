@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9a59b88-336b-4762-939c-f0fc09bb017f" name="Changes" comment="" />
+    <list default="true" id="ac618b8c-ae3b-4102-8f7e-8c4aef91d455" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2PYmDxzwsmdVrJXxWNmaicYd0W8" />
+  <component name="ProjectId" id="2PafquRPjT1oeLbhCojk0yXj8mc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +25,9 @@
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/test/chatter&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/test/chatter_flutter&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
@@ -39,11 +41,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9a59b88-336b-4762-939c-f0fc09bb017f" name="Changes" comment="" />
-      <created>1683642277504</created>
+      <changelist id="ac618b8c-ae3b-4102-8f7e-8c4aef91d455" name="Changes" comment="" />
+      <created>1683700314284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1683642277504</updated>
+      <updated>1683700314284</updated>
     </task>
     <servers />
   </component>
